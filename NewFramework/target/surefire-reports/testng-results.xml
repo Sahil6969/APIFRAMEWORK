@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1041" started-at="2022-01-09T14:30:21Z" finished-at="2022-01-09T14:30:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1041" started-at="2022-01-09T14:30:21Z" finished-at="2022-01-09T14:30:22Z">
+      <class name="org.testing.TestCases.Post">
+        <test-method status="PASS" signature="testcase7()[pri:0, instance:org.testing.TestCases.Post@29f69090]" name="testcase7" duration-ms="947" started-at="2022-01-09T20:00:21Z" finished-at="2022-01-09T20:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+      </class> <!-- org.testing.TestCases.Post -->
+      <class name="org.testing.TestCases.GetOne">
+        <test-method status="PASS" signature="testcase9()[pri:0, instance:org.testing.TestCases.GetOne@589b3632]" name="testcase9" duration-ms="47" started-at="2022-01-09T20:00:22Z" finished-at="2022-01-09T20:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- org.testing.TestCases.GetOne -->
+      <class name="org.testing.TestCases.Delete">
+        <test-method status="PASS" signature="testcase9()[pri:0, instance:org.testing.TestCases.Delete@45f45fa1]" name="testcase9" duration-ms="47" started-at="2022-01-09T20:00:22Z" finished-at="2022-01-09T20:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- org.testing.TestCases.Delete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
